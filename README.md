@@ -1,27 +1,38 @@
-<!-- Banner / Cover -->
+<!-- 🌌 Banner / Cover -->
 <p align="center">
   <img src="https://i.ibb.co/4S6Vfpp/banner-coding-anime.gif" width="100%" />
 </p>
 
-# 👋 Xin chào, mình là <span style="color:#00F5FF">HanSuke</span> 💻✨
+<h1 align="center">
+  👋 Xin chào, mình là <span style="color:#00F5FF">HanSuke</span> 💻✨
+</h1>
 
-> 🗡️ Developer | 🎨 Designer | ⚡ Dreamer | 🌌 Otaku  
-
-<img align="right" src="https://i.ibb.co/YT7wtyy/anime-coding.gif" width="300" />
+<p align="center">
+  🗡️ Developer | 🎨 Designer | ⚡ Dreamer | 🌌 Otaku | 👾 Hacker Spirit  
+</p>
 
 ---
 
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F5FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Indie+Game+Creator;Anime+and+Coding+Lover;Always+Learning+New+Things">
+</p>
+
+---
+
+<img align="right" src="https://i.ibb.co/YT7wtyy/anime-coding.gif" width="300" />
+
 ## 🌟 Giới thiệu nhanh
-- 🔭 Đang code chủ yếu với **Python / Node.js / Flutter / Next.js**
-- 🎮 Nghiện game: **Elden Ring, Genshin Impact, Attack on Titan Tribute Game**
-- 🚀 Ước mơ: Trở thành dev fullstack & indie game creator  
-- ⚡ Sở trường: "Đêm yên tĩnh + một tách cà phê + VS Code = sáng tạo bùng nổ"
+- 🔭 Đang tập trung với **Python / Node.js / Flutter / Next.js**
+- 🎮 Game yêu thích: **Elden Ring, AOT Tribute, Valorant**
+- 🚀 Ước mơ: Làm dev + indie game studio
+- ⚡ Châm ngôn: *“Code như thở, bug như cơm bữa.”* 😅
 
 ---
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,flutter,dart,ts,js,react,nextjs,docker,linux,mysql,git,github,figma,vscode,androidstudio&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,flutter,dart,ts,js,react,nextjs,docker,linux,mysql,git,github,figma,vscode,androidstudio,java,c,cpp,html,css&perline=9" />
 </p>
 
 ---
@@ -34,26 +45,42 @@
 
 ---
 
-## 🔥 Coding Streak
+## 🔥 Streak & Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansukedev&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansukedev&theme=highcontrast&hide_border=true" /><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hansukedev&theme=onestar&row=1&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🎶 Vibes khi code
+## 🎶 Music & Coding Vibes
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qjvh6yqsl7ftzccipm5epnxeny&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
 </p>
 
 ---
 
-## ⚔️ Một chút anime spirit
+## ⚔️ Anime Spirit
 > “Nếu không chiến đấu, ta sẽ không thắng.” – *Eren Yeager*  
 
 <p align="center">
   <img src="https://i.ibb.co/4MRdCMQ/aot-eren.gif" width="500"/>
 </p>
+
+---
+
+## 👾 Hacker Neon Corner
+<p align="center">
+  <img src="https://i.ibb.co/BcBtrFc/matrix-code.gif" width="500"/>
+</p>
+
+Initializing profile...
+Loading skills...
+System online ✅
+
+yaml
+Sao chép
+Chỉnh sửa
 
 ---
 
@@ -68,9 +95,18 @@
 
 ---
 
-## 🐉 Một chút động lực cuối
+## 🐉 Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
-✨ Nếu thấy thú vị, đừng quên cho mình 1 ⭐ nhé! 🚀
+---
+
+## 🐙 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+✨ *Nếu thấy hay thì đừng quên cho mình 1 ⭐ ở repo nhé!* 🚀
