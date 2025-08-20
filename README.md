@@ -69,7 +69,6 @@
 
 ---
 
-```markdown
 ## ⚡ Hacker Neon Corner  
 
 <p align="center">
@@ -82,10 +81,7 @@ Connecting to GitHub mainframe...
 Loading skill modules...
 Injecting creativity...
 System online ✅
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
-</p>
-```
+<p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/> </p> ```
 
 ## 🌍 Liên hệ với mình
 <p align="center">
