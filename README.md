@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Văn Sang
+# 👋 Xin chào, mình là Văn Sang, hay còn gọi là Hansuke xD
 
 💻 Developer | 🚀 Open Source Enthusiast | 🎮 Gamer  
 
@@ -33,8 +33,8 @@
 ---
 
 ## 🌍 Liên hệ
-- 📧 Email: your@email.com  
+- 📧 Email: vansang.230804@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)
+- 🐦 Facebook: [facebook.com/itsvzang](https://facebook.com/itsvzang)
 
 ✨ *Hãy ghé qua repo của mình và cho ⭐ nếu thấy hay nhé!*  
