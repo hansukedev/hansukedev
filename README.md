@@ -69,20 +69,20 @@
 
 ---
 
-## 👾 Hacker Neon Corner
+```markdown
+## ⚡ Hacker Neon Corner  
+
 <p align="center">
   <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="500"/>
 </p>
+
 ```bash
 Initializing HanSuke profile...
 Connecting to GitHub mainframe...
 Loading skill modules...
 Injecting creativity...
 System online ✅
-```
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/> </p> ```
 
 ## 🌍 Liên hệ với mình
 <p align="center">
