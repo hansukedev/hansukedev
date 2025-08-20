@@ -68,26 +68,6 @@
 
 ---
 
-## ⚡ Hacker Neon Corner
-
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="500" alt="matrix tv noise"/>
-</p>
-
-```bash
-Initializing HanSuke profile...
-Connecting to GitHub mainframe...
-Loading skill modules...
-Injecting creativity...
-System online ✅
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="matrix rain"/>
-</p>
-
----
-
 ## 🌍 Liên hệ với mình
 <p align="center">
   <a href="https://linkedin.com/in/hansukedev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
