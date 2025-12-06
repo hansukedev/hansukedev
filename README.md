@@ -95,10 +95,10 @@ https://raw.githubusercontent.com/hansukedev/hansukedev/output/snake.svg -->
 
 ---
 
-## 📌 Pin vài repo (tuỳ chọn)
+## 📌 Repo pinned
 <p align="center">
-  <a href="https://github.com/hansukedev/love-sync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansukedev&repo=love-sync&theme=radical&hide_border=true" />
+  <a href="https://github.com/hansukedev/love_sync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansukedev&repo=love_sync&theme=radical&hide_border=true" />
   </a>
 </p>
 
