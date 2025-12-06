@@ -97,11 +97,8 @@ https://raw.githubusercontent.com/hansukedev/hansukedev/output/snake.svg -->
 
 ## 📌 Pin vài repo (tuỳ chọn)
 <p align="center">
-  <a href="https://github.com/hansukedev/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansukedev&repo=awesome-project&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/hansukedev/discord-music-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansukedev&repo=discord-music-bot&theme=radical&hide_border=true" />
+  <a href="https://github.com/hansukedev/love-sync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hansukedev&repo=love-sync&theme=radical&hide_border=true" />
   </a>
 </p>
 
